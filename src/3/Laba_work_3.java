@@ -1,10 +1,10 @@
-package lab_work_3;
+package 3;
 
-import lab_work_3.functions.*;
+import 3.functions.*;
 
 import java.io.*;
 
-public class Main_lab_work_3 {
+public class Laba_work_3 {
 
     public static void test_class_ArrayTabulatedFunction_lab3() {
         System.out.println("#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#");
