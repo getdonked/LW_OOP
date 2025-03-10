@@ -1,4 +1,4 @@
-package lab_work_3.functions;
+package 3.functions;
 
 public interface TabulatedFunction {
     int getPointsCount();
