@@ -1,4 +1,4 @@
-package lab_work_4.functions;
+package 4.functions;
 
 import java.io.*;
 
