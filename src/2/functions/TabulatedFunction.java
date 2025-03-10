@@ -1,4 +1,4 @@
-package lab_work_2.functions;
+package 2.functions;
 
 /**
  * Класс ArrayTabulatedFunction.
