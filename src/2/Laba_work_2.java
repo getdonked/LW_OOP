@@ -1,8 +1,8 @@
-package lab_work_2;
+package 2;
 
-import lab_work_2.functions.*;
+import 2.functions.*;
 
-public class Main_lab_work_2 {
+public class Laba_work_2 {
 
     public static void test_class_FunctionPoint_lab2()
     {
