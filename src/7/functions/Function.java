@@ -1,4 +1,4 @@
-package lab_work_7.functions;
+package 7.functions;
 
 import java.io.Serializable;
 
